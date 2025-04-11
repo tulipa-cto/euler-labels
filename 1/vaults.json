@@ -793,5 +793,15 @@
 		"name": "Noon USN",
 		"description": "Noon USN",
 		"entity": ["tulipa-capital"]
+	},
+	"0x89963076d2aBCf6b3C449A8f0f69439C47C0464d": {
+		"name": "Noon sUSN",
+		"description": "Noon sUSN",
+		"entity": ["tulipa-capital"]
+	},
+	"0x5e416F15571F3783702c71D8C834D637C118D0d5": {
+		"name": "Noon PT-sUSN-1770336563",
+		"description": "Noon PT-sUSN-1770336563",
+		"entity": ["tulipa-capital"]
 	}
 }
